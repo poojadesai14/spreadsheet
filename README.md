@@ -96,6 +96,9 @@ if __name__ == '__main__':
 
 In this example, two test cases are defined to test setting and retrieving cell values as well as evaluating arithmetic expressions.
 
+## Requirements
+Python version: 3:10:11
+
 ## License
 
 This spreadsheet backend is available under the [MIT License](LICENSE).
